@@ -2,7 +2,7 @@
 Markov Text Generator 
 
 
-This is a simmple Markov text generator I built using Python. The algorithm essentially takes in an input file and uses the text to generate output text of a given length, with a similar style.
+This is a simple Markov text generator I built using Python. The algorithm essentially takes in an input file and uses the text to generate output text of a given length, with a similar style.
 
 To use, simply run the file with an input text file from your local computer:
 ```
